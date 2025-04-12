@@ -35,8 +35,8 @@ This is a Python-based GUI application that predicts thyroid disease using Suppo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/thyroid-detection-svm.git
-   cd thyroid-detection-svm
+    git clone https://github.com/your-username/thyroid-detection-svm.git
+    cd thyroid-detection-svm
 2. Install the dependencies:
     pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the application:
@@ -45,13 +45,13 @@ This is a Python-based GUI application that predicts thyroid disease using Suppo
    Folder structure:
    thyroid-detection-svm/
 │
-├── thyroid_gui.py             # Main GUI application
-├── Dataset/                    # Folder to place the training dataset
-├── test/                       # Folder to place new test datasets for prediction
-├── README.md                   # Project overvie
+ ├── Unconfirmed 172473 - Copy .py             # Main GUI application
+ ├── Dataset/  hypothyroid.csv                  # Folder to place the training dataset
+ ├── test/  test.csv                     # Folder to place new test datasets for prediction
+ ├── README.md                   # Project overvie
 5. Example Dataset Format
-   Make sure your CSV contains relevant features with a final column as the target variable (e.g., disease_status).
+    Make sure your CSV contains relevant features with a final column as the target variable (e.g., disease_status).
 ** Note **
-This project was built for academic and educational purposes using real-world medical data for experimentation. It is not intended for professional diagnostic use.
+   This project was built for academic and educational purposes using real-world medical data for experimentation. It is not intended for professional diagnostic use.
 
 
