@@ -48,9 +48,9 @@ This is a Python-based GUI application that predicts thyroid disease using Suppo
 ├── thyroid_gui.py             # Main GUI application
 ├── Dataset/                    # Folder to place the training dataset
 ├── test/                       # Folder to place new test datasets for prediction
-├── README.md                   # Project overview
-5.Example Dataset Format
-Make sure your CSV contains relevant features with a final column as the target variable (e.g., disease_status).
+├── README.md                   # Project overvie
+5. Example Dataset Format
+   Make sure your CSV contains relevant features with a final column as the target variable (e.g., disease_status).
 ** Note **
 This project was built for academic and educational purposes using real-world medical data for experimentation. It is not intended for professional diagnostic use.
 
