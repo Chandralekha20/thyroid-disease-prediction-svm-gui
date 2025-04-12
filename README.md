@@ -40,7 +40,7 @@ This is a Python-based GUI application that predicts thyroid disease using Suppo
 2. Install the dependencies:
     pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the application:
-   python thyroid_gui.py
+  Unconfirmed 172473 - Copy.py
 4. Use the GUI to upload your dataset, train the model, and make predictions.
    Folder structure:
    thyroid-detection-svm/
